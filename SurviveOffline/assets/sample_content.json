@@ -1,0 +1,16 @@
+[
+  {
+    "id": "welcome",
+    "title": "Benvenuto in SurviveOffline",
+    "body": "# Ciao!\n\nQuesta \u00e8 un'app di lettura **offline**. Qui potrai inserire i tuoi articoli.",
+    "updatedAt": "2025-08-01T10:00:00.000Z",
+    "favorite": false
+  },
+  {
+    "id": "howto",
+    "title": "Come aggiungere articoli",
+    "body": "Scrivi i tuoi testi e poi li importiamo nel formato JSON/Markdown.",
+    "updatedAt": "2025-08-01T10:00:00.000Z",
+    "favorite": false
+  }
+]
